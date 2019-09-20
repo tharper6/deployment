@@ -21,3 +21,4 @@ export interface IBlogCardProps {
 }
 
 export default BlogCard;
+
