@@ -1,6 +1,6 @@
 import * as express from 'express';
 import * as mailgunLoader from 'mailgun-js';
-import keys from '../../config/development'
+import keys from '../../config'
 
 const router = express.Router();
 

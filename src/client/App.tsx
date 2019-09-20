@@ -5,7 +5,7 @@ import Details from './pages/DetailsPage';
 import NavBar from './Components/NavBar';
 import Add from './pages/Add';
 import Edit from './pages/Edit';
-import Login from './pages/login';
+import Login from './pages/Login';
 import Contact from './pages/Contact';
 
 
